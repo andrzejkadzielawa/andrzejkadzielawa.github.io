@@ -1,0 +1,5 @@
+collections:
+  articles:
+    output: true
+  conferences:
+    output: true

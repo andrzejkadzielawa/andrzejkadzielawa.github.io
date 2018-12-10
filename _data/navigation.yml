@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Curriculum Vitae
+  link: /cv.html
+- name: Articles
+  link: /articles.html
+- name: Conferences
+  link: /conferences.html
+- name: Teaching
+  link: /teaching.html
