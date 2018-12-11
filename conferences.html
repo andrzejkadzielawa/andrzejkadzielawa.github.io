@@ -4,10 +4,12 @@ title: Dr. Andrzej P. Kądzielawa, Academic Activities
 ---
 <h1>Conferences</h1>
 
+<i>Work in progress (oral presentations not included)...</i>
+
 <ul>
   {% for conference in site.conferences %}
     <li>
-      <h5>{{ conference.data }}</h5>
+      <b>{{ conference.data }}</b> <i>{{ conference.type }}</i>
       <p><a href="{{ conference.www }}">{{ conference.contrib }}</a></p>
     </li>
   {% endfor %}
