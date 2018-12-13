@@ -1,22 +1,22 @@
 [
 {
 	"slug": "",
-	"url":  "/static/cv/drAPKadzielawaCV.pdf",
-	"image": "drAPKadzielawaCV.png",
+	"url":  "/static/cv/APKadzielawaCV.pdf",
+	"image": "APKadzielawaCV.png",
 	"date":  "Dec 2018",
 	"name":  "Curriculum Vitae"
 },
 {
 	"slug": "",
-	"url":  "/static/cv/drAPKadzielawaDissertation.pdf",
-	"image": "drAPKadzielawaDissertation.png",
+	"url":  "/static/cv/APKadzielawaDissertation.pdf",
+	"image": "APKadzielawaDissertation.png",
 	"date":  "Sep 2015",
 	"name":  "PhD Dissertation"
 },
 {
 	"slug": "",
-	"url":  "/static/cv/drAPKadzielawaThesis.pdf",
-	"image": "drAPKadzielawaThesis.png",
+	"url":  "/static/cv/APKadzielawaThesis.pdf",
+	"image": "APKadzielawaThesis.png",
 	"date":  "Jul 2011",
 	"name":  "Master Thesis"
 }
