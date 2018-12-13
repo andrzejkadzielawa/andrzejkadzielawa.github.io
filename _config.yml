@@ -1,5 +1,62 @@
+title: Dr. Andrzej P. Kądzielawa
+description: github user page
+author: Dr. Andrzej P. Kądzielawa
+github: https://github.com/andrzejkadzielawa
+about: theoretical physicist & HPC specialist
+disqus_shortname: apkadzielawa
+google_analytics: UA-130945943-1
+avatar_url: /static/img/apk.png
+
+enableTags: true
+tagarray: []
+
 collections:
   articles:
     output: true
-  conferences:
+    permalink: /acticles/:path/
+  project:
     output: true
+    permalink: /project/:path/
+
+social:
+        #    - icon: fa-facebook
+        #      link: "#"
+    - icon: fa-github
+      link: "https://github.com/andrzejkadzielawa"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/andrzej-k%C4%85dzielawa"
+    - icon: fa-stack-exchange
+      link: "mailto:apkadzielawa@gmail.com"
+    - icon: fa-github
+      link: "https://github.com/Mellechowicz"
+
+share:
+        #  twitter_username: agusmakmun6
+        #  fb_appid: 1749788565247320
+
+urls:
+    - text: Curriculum Vitae
+      url: /cv/ 
+    - text: Articles
+      url: /articles/
+    - text: Teaching
+      url: /teaching/
+    - text: Conferences
+      url: /projects/
+
+url: "https://andrzejkadzielawa.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']

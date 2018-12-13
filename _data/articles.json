@@ -1,0 +1,75 @@
+[
+{
+"slug": "",
+"url":  "https://bitbucket.org/azja/qmt/src/master/",
+"image": "QMTlogo.png",
+"date":  "A. Biborski, A. P. Kądzielawa, Stefan Siekanka, 2018",
+"name":  "Quantum Metallization Tools (qmt)",
+"tags":  ["Monte Carlo", "Variational wave function", "Exact diagonalization", "Lanczos method", "Gutzwiller approach", "Sparse matrices", "Dense matrices", "HPC", "HPC framework", "c++", "Multi-level parallelism", "OpenMP", "OpenMPI", "Gnu Scientific Library", "ab initio", "Extended Hubbard model", "Condensed Matter Physics", "Computational Physics"]
+},
+{
+"slug": "",
+"url":  "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.085112",
+"image": "prb2018.png",
+"date":  "Phys. Rev. B 98, 085112 (2018)",
+"name":  "<i>A. Biborski, A. P. Kądzielawa, and J. Spałek,</i> Atomization of correlated molecular-hydrogen chain: A fully microscopic variational Monte Carlo solution",
+"tags":  ["Monte Carlo", "Variational wave function", "Electronic structure", "1-dimensional systems", "Peierls transition", "Extreme pressure", "ab initio", "Extended Hubbard model", "Hydrogen", "Condensed Matter Physics", "Computational Physics"]
+},
+{
+"slug": "",
+"url":  "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.085101",
+"image": "prb2017.png",
+"date":  "Phys. Rev. B 96, 085101 (2017)",
+"name":  "<i>A. Biborski, A. P. Kądzielawa, and J. Spałek,</i> Metallization of solid molecular hydrogen in two dimensions: Mott-Hubbard-type transition",
+"tags":  ["Exact diagonalization", "Sparse matrices", "Lanczos method", "Insulators", "Metal-insulator transition", "Metals", "Metallization", "Extreme pressure", "ab initio", "extended Hubbard model", "Solid Hydrogen", "Hydrogen", "Condensed Matter Physics", "Computational Physics"]
+},
+{
+"slug": "",
+"url":  "http://www.nature.com/articles/srep29887",
+"image": "srep2016.jpg",
+"date":  "Scientific Reports 6, 29887 (2016)",
+"name":  "<i>A. Biborski, A. P. Kądzielawa, A. Gorczyca-Goraj, E. Zipper, M. M. Maśka, and J. Spałek,</i> Dot-ring nanostructure: Rigorous analysis of many-electron effects",
+"tags":  ["Exact diagonalization", "Dense matrices", "Monte Carlo", "Adaptive MC integration", "Electronic and spintronic devices", "Electronic materials", "Electronic structure", "Nanophysics", "Computational Physics"]
+},
+{
+"slug": "",
+"url":  "http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.161101",
+"image": "prb2015.png",
+"date":  "Phys. Rev. B 92, 161101(R) (2015) ",
+"name":  "<i>A. P. Kądzielawa, A. Biborski, and J. Spałek,</i> Discontinuous transition of molecular-hydrogen chain to the quasipostic state: Combined exact diagonalization and ab initio approach",
+"tags":  ["Exact diagonalization", "New methods", "Sparse matrices", "Lanczos method", "1-dimensional systems", "Insulators", "Metal-insulator transition", "Metals", "Metallization", "Extreme pressure", "ab initio", "extended Hubbard model", "Hydrogen", "Condensed Matter Physics", "Computational Physics"]
+},
+{
+"slug": "",
+"url":  "http://www.sciencedirect.com/science/article/pii/S0010465515002854",
+"image": "cpc2015.jpg",
+"date":  "Comput. Phys. Commun. 197, 7 (2015)",
+"name":  "<i>A. Biborski, A. P. Kądzielawa, and J. Spałek,</i> Combined shared and distributed memory ab-initio computations of molecular-hydrogen systems in the correlated state: process pool solution and two-level parallelism",
+"tags":  ["Quantum chemistry", "Multilevel parallelism", "Shared memory model", "OpenMP", "Distributed memory model", "OpenMPI", "New methods", "ab initio", "Hydrogen", "Electronic correlations", "Condensed Matter Physics", "Computational Physics"] 
+},
+{
+"slug": "",
+"url":  "http://stacks.iop.org/1367-2630/16/i=12/a=123022",
+"image": "njp2014.gif",
+"date":  "New J. Phys.16 123022 (2014)",
+"name":  "<i>A. P. Kądzielawa, A. Bielas, M. Acquarone, A. Biborski, M. M. Maśka, and J. Spałek,</i> $H_2$ and $(H_2)_2$ molecules with an ab initio optimization of wave functions in correlated state: electron–proton couplings and intermolecular microscopic parameters",
+"tags":  ["Quantum chemistry", "Perturbations", "Zero-point motion", "Kinetic electron-ion coupling", "New methods", "ab initio", "Hydrogen", "Electronic correlations"] 
+},
+{
+"slug": "",
+"url":  "http://przyrbwn.icm.edu.pl/APP/PDF/126/a126z4ap12.pdf",
+"image": "app2014.png",
+"date":  "Acta Phys. Pol. A, 126 (2014), p. A-58",
+"name":  "<i>A. P. Kądzielawa,</i> Metallization of postic solid hydrogen within the extended Hubbard model with renormalized Wannier wave functions",
+"tags":  ["Multidimensional optimization", "Gutzwiller Ansatz", "Mean field", "Perturbations", "Zero-point motion", "Solid Hydrogen", "Hydrogen", "Condensed Matter Physics"]
+},
+{
+"slug": "",
+"url":  "https://link.springer.com/article/10.1140%2Fepjb%2Fe2013-40127-y",
+"image": "epj.png",
+"date":  "Eur. Phys. J. B 86, 252 (2013)",
+"name":  "<i>A. P. Kądzielawa, J. Spałek, J. Kurzyk, and W. Wójcik,</i> Extended Hubbard model with renormalized Wannier wave functions in the correlated state III: Statistically consistent Gutzwiller approximation and the metallization of postic solid hydrogen",
+"tags":  ["Multidimensional optimization", "Gutzwiller Ansatz", "Mean field", "Extreme pressure", "Metallization", "Solid Hydrogen", "Hydrogen", "Condensed Matter Physics"]
+}
+
+]

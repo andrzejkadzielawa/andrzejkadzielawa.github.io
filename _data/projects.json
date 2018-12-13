@@ -1,0 +1,194 @@
+[
+	{
+		"slug":  "apkadzielawaZakopane2018",
+		"name":  "First-principle approach to correlated realistic molecular hydrogen planes: Role of the Heisenberg-type interaction and the superconductivity",
+		"image": "apkadzielawaZakopane2018.png",
+		"url":   "/static/projects/apkadzielawaZakopane2018.pdf",
+		"date":  "oral presentation, Sep 2018",
+		"tags": ["Sparse matrices", "Exact diagonalization", "Lanczos method", "Correlated bands", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Zero-point Motion", "Superconductivity", "Conventional superconductivity", "Metallization", "HPC", "ab initio", "Quantum Mechanics"]
+	},
+	{
+		"slug":  "apkadzielawaUstron2018",
+		"name":  "Atomization of correlated molecular-hydrogen chain: A fully microscopic Variational Monte-Carlo solution",
+		"image": "apkadzielawaUstron2018.png",
+		"url":   "/static/projects/apkadzielawaUstron2018.pdf",
+		"date":  "oral presentation, Sep 2018",
+"tags":  ["Monte Carlo", "Variational wave function", "Electronic structure", "1-dimensional systems", "Peierls transition", "Extreme pressure", "ab initio", "Extended Hubbard model", "Hydrogen", "Condensed Matter Physics", "Computational Physics"]
+	},
+	{
+		"slug": "ustron2018",
+		"name": "42nd International Conference of Theoretical Physics, Correlations and Coherence at Different Scales, Ustroń 2018",
+		"image": "ustron2018.png",
+		"url": "/static/projects/ustron2018.pdf",
+		"date":  "poster, Sep 2018",
+		"tags": ["Sparse matrices", "Exact diagonalization", "Lanczos method", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Zero-point Motion", "Superconductivity", "Conventional superconductivity", "Metallization", "HPC", "ab initio", "Quantum Mechanics"]
+	},
+	{
+		"slug":  "apkadzielawaKrynicaMorska2017",
+		"name":  "Podejście z pierwszych zasad do skorelowanych molekularnych i atomowych płaszczyzn wodorowych: Rola oddziaływania wymiany i nadprzewodnictwo",
+		"image": "apkadzielawaKrynicaMorska2017.png",
+		"url":   "/static/projects/apkadzielawaKrynicaMorska2017.pdf",
+		"date":  "oral presentation, Oct 2017",
+		"tags": ["Sparse matrices", "Exact diagonalization", "Lanczos method", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Zero-point Motion", "Superconductivity", "Conventional superconductivity", "Metallization", "HPC", "ab initio", "Quantum Mechanics", "in Polish"]
+	},
+	{
+		"slug": "prague2017",
+		"name": "International Conference on Strongly Correlated Electron Systems, SCES Prague 2017",
+		"image": "prague2017.png",
+		"url": "/static/projects/prague2017.pdf",
+		"date":  "poster, Jul 2017",
+		"tags": ["Sparse matrices", "Exact diagonalization", "Lanczos method", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Zero-point Motion", "Superconductivity", "Conventional superconductivity", "Metallization", "HPC", "ab initio", "Quantum Mechanics"]
+	},
+	{
+		"slug":  "apkadzielawaPTF2017",
+		"name":  "Metalizacja wodoru",
+		"image": "apkadzielawaPTF2017.png",
+		"url":   "/static/projects/apkadzielawaPTF2017.pdf",
+		"date":  "invited lecture, Mar 2017",
+		"tags": ["Hydrogen", "Solid hydrogen", "Black hydrogen", "Dias-Silvera experiment", "Review", "Experiment", "Metal-Insulation transition", "Metallization", "in Polish"]
+	},
+	{
+		"slug":  "apkadzielawaKrakow2017",
+		"name":  "Metalizacja molekularnego wodoru w dwóch wymiarach",
+		"image": "apkadzielawaKrakow2017.png",
+		"url":   "/static/projects/apkadzielawaKrakow2017.pdf",
+		"date":  "semminar, Jan 2017",
+		"tags": ["Sparse matrices", "Exact diagonalization", "Lanczos method", "Extended Hubbard model", "Hydrogen", "Multi-level parallelism", "Metal-Insulation transition", "Metallization", "HPC", "ab initio", "Quantum Mechanics", "in Polish"]
+	},
+	{
+		"slug":  "apkadzielawaZakopane2016",
+		"name":  "Metallization of molecular and atomic hydrogen in 2D under high pressure",
+		"image": "apkadzielawaZakopane2016.png",
+		"url":   "/static/projects/apkadzielawaZakopane2016.pdf",
+		"date":  "oral presentation, Sep 2016",
+		"tags": ["Sparse matrices", "Exact diagonalization", "Lanczos method", "Extended Hubbard model", "Hydrogen", "Multi-level parallelism", "Metal-Insulation transition", "Metallization", "HPC", "ab initio", "Quantum Mechanics"]
+	},
+	{
+		"slug":  "apkadzielawaUstron2016",
+		"name":  "Dot-ring nanostructure: Rigorous analysis of many-electron effects",
+		"image": "apkadzielawaUstron2016.png",
+		"url":   "/static/projects/apkadzielawaUstron2016.pdf",
+		"date":  "oral presentation, Sep 2016",
+		"tags": ["Dense matrices", "Exact diagonalization", "HPC", "Wave-function engineering", "New methods", "Correlations in mezoscale", "Nanophysics", "Quantum Mechanics"]
+	},
+	{
+		"slug": "warszawa2016",
+		"name": "Forum of understanding on Nanomaterials and their interdisciplinary applications, Warsaw 2016",
+		"image": "warszawa2016.png",
+		"url": "/static/projects/warszawa2016.pdf",
+		"date":  "poster, Jun 2016",
+		"tags": ["Dense matrices", "Exact diagonalization", "HPC", "Wave-function engineering", "New methods", "Correlations in mezoscale", "Nanophysics", "Quantum Mechanics"]
+	},
+	{
+		"slug": "hangzhou2016",
+		"name": "International Conference on Strongly Correlated Electron Systems, SCES Hangzhou 2016",
+		"image": "hangzhou2016.png",
+		"url": "/static/projects/hangzhou2016.pdf",
+		"date":  "poster, May 2016",
+		"tags": ["Dense matrices", "Exact diagonalization", "HPC", "Wave-function engineering", "New methods", "Correlations in mezoscale", "Nanophysics", "Quantum Mechanics"]
+	},
+	{
+		"slug": "krakow2016",
+		"name": "Sympozjum obliczeniowych metod ab initio, Kraków 2016",
+		"image": "krakow2016.png",
+		"url": "/static/projects/krakow2016.pdf",
+		"date":  "poster, Feb 2016",
+		"tags": ["Dense matrices", "Exact diagonalization", "HPC", "Wave-function engineering", "New methods", "Correlations in mezoscale", "Nanophysics", "Quantum Mechanics", "in Polish"]
+	},
+	{
+		"slug":  "apkadzielawaKarpacz2015",
+		"name":  "Discontinuous transition of molecular-hydrogen chain to the quasi-atomic state",
+		"image": "apkadzielawaKarpacz2015.png",
+		"url":   "/static/projects/apkadzielawaKarpacz2015.pdf",
+		"date":  "oral presentation, Oct 2015",
+		"tags": ["Sparse matrices", "Exact diagonalization", "Lanczos method", "1-dimensional systems", "Extended Hubbard model", "Hydrogen", "Multi-level parallelism", "New methods", "Metallization", "HPC", "ab initio", "Quantum chemistry", "Quantum Mechanics", "in Polish"]
+	},
+	{
+		"slug": "barcelona2015",
+		"name": "20th International Conference on Magnetism, ICM Barcelona 2015",
+		"image": "barcelona2015.png",
+		"url": "/static/projects/barcelona2015.pdf",
+		"date":  "poster, Jul 2015",
+		"tags": ["Sparse matrices", "Exact diagonalization", "Lanczos method", "1-dimensional systems", "Extended Hubbard model", "Hydrogen", "Multi-level parallelism", "New methods", "Metallization", "HPC", "ab initio", "Quantum chemistry", "Quantum Mechanics"]
+	},
+	{
+		"slug":  "apkadzielawaKatowice2015",
+		"name":  "Przejście molekularny → atomowy wodór: optymalizacja bazy jednocząstkowej w metodzie EDABI",
+		"image": "apkadzielawaKatowice2015.png",
+		"url":   "/static/projects/apkadzielawaKatowice2015.pdf",
+		"date":  "semminar, Jun 2015",
+		"tags": ["Sparse matrices", "Exact diagonalization", "Lanczos method", "1-dimensional systems", "Extended Hubbard model", "Hydrogen", "Multi-level parallelism", "New methods", "Metallization", "HPC", "ab initio", "Quantum chemistry", "Quantum Mechanics", "in Polish"]
+	},
+	{
+		"slug": "krakow2014",
+		"name": "4th Workshop on ab initio phonon calculations, Kraków 2014",
+		"image": "krakow2014.png",
+		"url": "/static/projects/krakow2014.pdf",
+		"date":  "poster, Dec 2014",
+		"tags": ["Hydrogen", "Multi-level parallelism", "New methods", "Metallization", "HPC", "ab initio", "Quantum chemistry", "Quantum Mechanics"]
+	},
+	{
+		"slug":  "apkadzielawaZakopane2014",
+		"name":  "(H_2)_n molecule system with an ab initio optimization of wave functions in correlated state: Electron-proton couplings and intermolecular microscopic parameters",
+		"image": "apkadzielawaZakopane2014.png",
+		"url":   "/static/projects/apkadzielawaZakopane2014.pdf",
+		"date":  "oral presentation, Sep 2014",
+		"tags": ["Hydrogen", "HPC", "New methods", "Electronic correlations", "Zero-point motion", "Quantum chemistry", "Quantum Mechanics"]
+	},
+	{
+		"slug":  "apkadzielawaJuelich2014",
+		"name":  "Metallization of atomic solid hydrogen within the extended Hubbard model with renormalized Wannier wave functions",
+		"image": "apkadzielawaJuelich2014.png",
+		"url":   "/static/projects/apkadzielawaJuelich2014.pdf",
+		"date":  "working semminar, Mar 2014",
+		"tags": ["Hydrogen", "New methods", "Electronic correlations", "Zero-point motion", "Quantum chemistry", "Quantum Mechanics"]
+	},
+	{
+		"slug": "karpacz2014",
+		"name": "50th Karpacz School of Theoretical Physics, Karpacz 2014",
+		"image": "karpacz2014.png",
+		"url": "/static/projects/karpacz2014.pdf",
+		"date":  "poster, Mar 2014",
+		"tags": ["Hydrogen", "HPC", "New methods", "Electronic correlations", "Zero-point motion", "Quantum chemistry", "Quantum Mechanics"]
+	},
+	{
+		"slug":  "apkadzielawaZakopane2013",
+		"name":  "Metallization of atomic solid hydrogen within the extended Hubbard model with renormalized Wannier wave functions",
+		"image": "apkadzielawaZakopane2013.png",
+		"url":   "/static/projects/apkadzielawaZakopane2013.pdf",
+		"date":  "oral presentation, Oct 2013",
+		"tags": ["Hydrogen", "New methods", "Electronic correlations", "Zero-point motion", "Quantum chemistry", "Quantum Mechanics"]
+	},
+	{
+		"slug": "juelich2013",
+		"name": "Autumn School on Correlated Electrons, Juelich 2013",
+		"image": "juelich2013.png",
+		"url": "/static/projects/juelich2013.pdf",
+		"date":  "poster, Sep 2013",
+		"tags": ["Hydrogen", "New methods", "Electronic correlations", "Zero-point motion", "Quantum chemistry", "Quantum Mechanics"]
+	},
+	{
+		"slug":  "apkadzielawaKrakow2013",
+		"name":  "Ab initio methods in Mott transition - application to metallization of atomic hydrogen",
+		"image": "apkadzielawaKrakow2013.png",
+		"url":   "/static/projects/apkadzielawaKrakow2013.pdf",
+		"date":  "semminar, Jun 2013",
+		"tags": ["Hydrogen", "Metallization", "Electronic correlations", "Mean field", "Quantum Mechanics"]
+	},
+	{
+		"slug": "mcc2012",
+		"name": "2012 Summer School on Computational Materials Science, Quantum Monte Carlo: Theory and Fundamentals, Urbana-Champaign 2012",
+		"image": "mcc2012.png",
+		"url": "/static/projects/mcc2012.pdf",
+		"date":  "poster, Jul 2012",
+		"tags": ["Hydrogen", "Metallization", "Mean field", "Quantum Mechanics"]
+	},
+	{
+		"slug":  "apkadzielawaKrakow2012",
+		"name":  "Topological Entropy in Condensed Matter Physics",
+		"image": "apkadzielawaKrakow2012.png",
+		"url":   "/static/projects/apkadzielawaKrakow2012.pdf",
+		"date":  "student review, May 2012",
+		"tags":  ["Topological enthropy", "New materials", "High-Tc Superconductivity", "Superconductivity", "Unconvential superconductivity", "Quantum Hall effect", "Review", "Quantum Mechanics"]
+	}
+]
