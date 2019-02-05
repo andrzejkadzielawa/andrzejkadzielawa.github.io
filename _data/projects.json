@@ -1,5 +1,21 @@
 [
 	{
+		"slug":  "apkadzielawaAuckland2019",
+		"name":  "First-principle approach to correlated realistic molecular hydrogen planes: Role of the Heisenberg-type interaction and the superconductivity",
+		"image": "apkadzielawaAuckland2019.png",
+		"url":   "/static/projects/apkadzielawaAuckland2019.pdf",
+		"date":  "CTCP Seminar, Feb 2019",
+		"tags": ["Sparse matrices", "Exact diagonalization", "Lanczos method", "Correlated bands", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Zero-point Motion", "Superconductivity", "Conventional superconductivity", "Metallization", "HPC", "ab initio", "Quantum Mechanics", "Monte Carlo", "Variational wave function", "Electronic structure", "1-dimensional systems", "Peierls transition", "Extreme pressure"]
+	},
+	{
+		"slug": "ustron2018",
+		"name": "42nd International Conference of Theoretical Physics, Correlations and Coherence at Different Scales, Ustroń 2018",
+		"image": "ustron2018.png",
+		"url": "/static/projects/ustron2018.pdf",
+		"date":  "poster, Sep 2018",
+		"tags": ["Sparse matrices", "Exact diagonalization", "Lanczos method", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Zero-point Motion", "Superconductivity", "Conventional superconductivity", "Metallization", "HPC", "ab initio", "Quantum Mechanics"]
+	}
+	{
 		"slug":  "apkadzielawaZakopane2018",
 		"name":  "First-principle approach to correlated realistic molecular hydrogen planes: Role of the Heisenberg-type interaction and the superconductivity",
 		"image": "apkadzielawaZakopane2018.png",
