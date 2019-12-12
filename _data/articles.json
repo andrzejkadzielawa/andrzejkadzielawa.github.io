@@ -1,9 +1,17 @@
 [
 {
 "slug": "",
+"url":  "https://github.com/Mellechowicz/JorG",
+"image": "JorGpi.png",
+"date":  "A. P. Kądzielawa, 2019",
+"name":  "JorGpi, generic framework for DFT-to-Heisnberg-model mapping",
+"tags": ["Heisenberg model", "Exchange interaction", "python", "c++", "HPC", "Ising model", "Simulated Annealing", "Random Walk", "Hive methods", "symmetry groups", "ab initio", "Quantum Mechanics"]
+},
+{
+"slug": "",
 "url":  "https://bitbucket.org/azja/qmt/src/master/",
 "image": "QMTlogo.png",
-"date":  "A. Biborski, A. P. Kądzielawa, Stefan Siekanka, 2018",
+"date":  "A. Biborski, A. P. Kądzielawa, Stefan Siekanka, 2019",
 "name":  "Quantum Metallization Tools (qmt)",
 "tags":  ["Monte Carlo", "Variational wave function", "Exact diagonalization", "Lanczos method", "Gutzwiller approach", "Sparse matrices", "Dense matrices", "HPC", "HPC framework", "c++", "Multi-level parallelism", "OpenMP", "OpenMPI", "Gnu Scientific Library", "ab initio", "Extended Hubbard model", "Condensed Matter Physics", "Computational Physics"]
 },

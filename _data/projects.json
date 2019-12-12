@@ -13,7 +13,7 @@
 		"image": "ostrava2019.png",
 		"url": "/static/projects/ostrava2019.pdf",
 		"date":  "poster, Nov 2019",
-		"tags": ["Heisenberg model", "Exchange interaction", "python", "c++", "HPC", "ab initio", "Quantum Mechanics"]
+		"tags": ["Heisenberg model", "Exchange interaction", "python", "c++", "HPC", "Ising model", "Simulated Annealing", "Random Walk", "Hive methods", "symmetry groups", "ab initio", "Quantum Mechanics"]
 	},
     {
 		"slug":  "apkadzielawaRegensburg2019",
