@@ -19,8 +19,6 @@ collections:
     permalink: /project/:path/
 
 social:
-        #    - icon: fa-facebook
-        #      link: "#"
     - icon: fa-github
       link: "https://github.com/andrzejkadzielawa"
     - icon: fa-linkedin
@@ -29,10 +27,6 @@ social:
       link: "mailto:apkadzielawa@gmail.com"
     - icon: fa-github
       link: "https://github.com/Mellechowicz"
-
-share:
-        #  twitter_username: agusmakmun6
-        #  fb_appid: 1749788565247320
 
 urls:
     - text: Curriculum Vitae
