@@ -5,7 +5,7 @@
 		"image": "apkadzielawaKrakow2019.png",
 		"url":   "/static/projects/apkadzielawaKrakow2019.pdf",
 		"date":  "5th Workshop on ab-initio Phonon Calculations, Dec 2019",
-		"tags": ["Superconductivity", "Conventional superconductivity", "Phonons", "Anharmonicity", "Sparse matrices", "Exact diagonalization", "Lanczos method", "Correlated bands", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Zero-point Motion", "Metallization", "HPC", "ab initio", "Quantum Mechanics", "Monte Carlo", "Variational wave function", "Electronic structure", "1-dimensional systems", "Peierls transition", "Extreme pressure"]
+		"tags": ["Superconductivity", "Conventional superconductivity", "Phonons", "Anharmonicity", "Sparse matrices", "Exact diagonalization", "Lanczos method", "Correlated bands", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Metallization", "HPC", "ab initio", "Quantum Mechanics", "Variational wave function", "Electronic structure", "Extreme pressure"]
 	},
     {
 		"slug": "ostrava2019",
