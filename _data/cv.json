@@ -2,7 +2,7 @@
 {
 	"slug": "",
 	"url":  "/static/cv/APKadzielawaCV.pdf",
-	"image": "APKadzielawaCV.pdf",
+	"image": "<a href='/static/cv/APKadzielawaCV.pdf'>APKadzielawaCV.png</a>",
 	"date":  "Apr 2019",
 	"name":  "Curriculum Vitae"
 },
