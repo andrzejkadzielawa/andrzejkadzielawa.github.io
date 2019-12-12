@@ -1,5 +1,21 @@
 [
 	{
+		"slug":  "apkadzielawaKrakow2019",
+		"name":  "Electron-lattice coupling and superconductivity in hydrogen-rich systems",
+		"image": "apkadzielawaKrakow2019.png",
+		"url":   "/static/projects/apkadzielawaKrakow2019.pdf",
+		"date":  "5th Workshop on ab-initio Phonon Calculations, Dec 2019",
+		"tags": ["Superconductivity", "Conventional superconductivity", "Phonons", "Anharmonicity", "Sparse matrices", "Exact diagonalization", "Lanczos method", "Correlated bands", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Zero-point Motion", "Metallization", "HPC", "ab initio", "Quantum Mechanics", "Monte Carlo", "Variational wave function", "Electronic structure", "1-dimensional systems", "Peierls transition", "Extreme pressure"]
+	},
+    {
+		"slug": "ostrava2019",
+		"name": "3rd Users' Conference of IT4Innovations",
+		"image": "ostrava2019.png",
+		"url": "/static/projects/ostrava2019.pdf",
+		"date":  "poster, Nov 2019",
+		"tags": ["Heisenberg model", "Exchange interaction", "python", "c++", "HPC", "ab initio", "Quantum Mechanics"]
+	},
+    {
 		"slug":  "apkadzielawaRegensburg2019",
 		"name":  "Spin-dependent Masses in High Magnetic Field: Minimal Model for CeCoIn5",
 		"image": "apkadzielawaRegensburg2019.png",
