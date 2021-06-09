@@ -1,9 +1,41 @@
 [
 {
 "slug": "",
+"url":  "https://www.sciencedirect.com/science/article/abs/pii/S0010465521000801?via%3Dihub",
+"image": "maelas.png",
+"date":  "P.Nieves, S.Arapan, S.H.Zhang, A.P.Kądzielawa, R.F.Zhang, D.Legut, 2021",
+"name":  "MAELAS: MAgneto-ELAStic properties calculation via computational high-throughput approach",
+"tags": ["python", "VASP", "ab initio", "magnetostriction", "elastic properties", "magnetic properties"]
+},
+{
+"slug": "",
+"url":  "",
+"image": "maelasviewer.png",
+"date":  "P.Nieves, S.Arapan, A.P.Kądzielawa, D.Legut, 2020",
+"name":  "MAELASviewer: An Online Tool to Visualize Magnetostriction",
+"tags": ["python", "visualization", "VASP", "ab initio", "magnetostriction", "elastic properties", "magnetic properties"]
+},
+{
+"slug": "",
+"url":  "https://zenodo.org/record/4032734",
+"image": "povab.png",
+"date":  "A. P. Kądzielawa, 2020",
+"name":  "PoVaB visualization suite",
+"tags": ["python", "visualization", "VASP", "ab initio", "band structure", "matplotlib"]
+},
+{
+"slug": "",
+"url":  "https://zenodo.org/record/3988890",
+"image": "vasprun.png",
+"date":  "Q. Zhu, A. P. Kądzielawa, 2020",
+"name":  "qzhu2017/vasprun: v1.0.1",
+"tags": ["python", "visualization", "VASP", "ab initio", "band structure", "matplotlib"]
+},
+{
+"slug": "",
 "url":  "https://github.com/Mellechowicz/JorG",
 "image": "JorGpi.png",
-"date":  "A. P. Kądzielawa, 2019",
+"date":  "A. P. Kądzielawa, 2020",
 "name":  "JorGpi, generic framework for DFT-to-Heisnberg-model mapping",
 "tags": ["Heisenberg model", "Exchange interaction", "python", "c++", "HPC", "Ising model", "Simulated Annealing", "Random Walk", "Hive methods", "symmetry groups", "ab initio", "Quantum Mechanics"]
 },
