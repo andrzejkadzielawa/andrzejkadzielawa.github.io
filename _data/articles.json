@@ -1,6 +1,22 @@
 [
 {
 "slug": "",
+"url":  "https://doi.org/10.1016/j.matlet.2021.130728",
+"image": "matlett.jpg",
+"date":  "J. Veverka, F. Lukáč, A. P. Kądzielawa, M. Koller, Z. Chlup, H. Hadraba, M. Karlík, D. Legut, J. Vontorová, T. Chráska, M. Vilémováa",
+"name":  "Ultrafine-grained W-Cr composite prepared by controlled W-Cr solid solution decomposition",
+"tags": ["tungsten-chromium alloys", "solid solution", "decomposition", "ultra-fine grains", "mechanical properties", "elastic properties", "density functional theory", "ab initio", "VASP"]
+},
+{
+"slug": "",
+"url":  "https://doi.org/10.1016/j.corsci.2021.109716",
+"image": "corrsci.png",
+"date":  "D. Legut, A.P. Kądzielawa, P. Pánek, K. Marková, P. Váňová, K. Konečná, Š. Langová",
+"name":  "Inhibition of steel corrosion with imidazolium-based compounds – Experimental and theoretical study",
+"tags": ["Imidazolium-based compounds", "corrosion inhibition", "polarization curve", "electrochemical impedance spectroscopy", "steel", "density functional theory", "Electronic structure", "ab initio", "VASP"]
+},
+{
+"slug": "",
 "url":  "https://www.sciencedirect.com/science/article/abs/pii/S0010465521000801?via%3Dihub",
 "image": "maelas.png",
 "date":  "P.Nieves, S.Arapan, S.H.Zhang, A.P.Kądzielawa, R.F.Zhang, D.Legut, 2021",
