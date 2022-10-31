@@ -1,0 +1,63 @@
+[
+{
+"slug": "",
+"url":  "https://www.it4i.cz/en/for-users/open-access-competition/25th-call-results",
+"image": "w00.png",
+"date":  "Barbora CPU 33 000 nodehours, Karolina CPU 24 000 nodehours, Karolina GPU 11 800 nodehours, 2022",
+"name":  "OPEN-25-5: Designing effective interatomic potentials for Tungsten-based alloys"
+},
+{
+"slug": "",
+"url":  "https://www.it4i.cz/en/for-users/open-access-competition/24th-call-results",
+"image": "w01.png",
+"date":  "Barbora CPU 13 000 nodehours, Karolina CPU 12 400 nodehours, 2022",
+"name":  "OPEN-24-52: Symmetric Special Quasirandom Structure Generator"
+},
+{
+"slug": "",
+"url":  "https://www.it4i.cz/en/for-users/open-access-competition/22nd-call-results",
+"image": "w02.png",
+"date":  "3,457,000 corehours, 2021",
+"name":  "OPEN-22-18: Thermal properties of Cerium Titanides"
+}
+,
+{
+"slug": "",
+"url":  "https://www.it4i.cz/en/for-users/open-access-competition/20th-call-results",
+"image": "w03.png",
+"date":  "1,147,000 corehours, 2020",
+"name":  "OPEN-20-10: Determination of the k-dependent hybridization between 4f states and the conduction bands in CeCoIn5"
+}
+,
+{
+"slug": "",
+"url":  "https://www.it4i.cz/en/for-users/open-access-competition/19th-call-results",
+"image": "w04.png",
+"date":  "1,174,000 corehours, 2020",
+"name":  "OPEN-19-33: Inhibition of corrosion with compounds based on imidazole"
+}
+,
+{
+"slug": "",
+"url":  "https://www.it4i.cz/pro-uzivatele/grantova-soutez-it4i/18-kolo",
+"image": "w05.png",
+"date":  "12,183,000 corehours, 2020-2022",
+"name":  "OPEN-18-33: Tailoring thermal stability of W-Cr based alloys for fusion applications"
+}
+,
+{
+"slug": "",
+"url":  "https://www.it4i.cz/pro-uzivatele/grantova-soutez-it4i/17-kolo",
+"image": "w06.png",
+"date":  "2,799,000 corehours, 2019",
+"name":  "OPEN-17-19: Mapping Density Functional Theorem onto Heisenberg model"
+}
+,
+{
+"slug": "",
+"url":  "https://www.it4i.cz/pro-uzivatele/grantova-soutez-it4i/16-kolo",
+"image": "w07.png",
+"date":  "1,124,000 corehours, 2019",
+"name":  "OPEN-16-37: Superconductivity in hydrogen-rich compounds"
+}
+]

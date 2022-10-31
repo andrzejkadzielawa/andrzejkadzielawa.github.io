@@ -33,6 +33,8 @@ urls:
       url: /cv/ 
     - text: Articles
       url: /articles/
+    - text: Computational Projects
+      url: /computational/
     - text: Teaching
       url: /teaching.html
     - text: Conferences
