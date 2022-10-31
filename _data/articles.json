@@ -1,9 +1,33 @@
 [
 {
 "slug": "",
+"url":  "https://doi.org/10.1016/j.jnucmat.2022.153817",
+"image": "UH.jpg",
+"date":  "L. Kývala; L. Havela; A.P. Kadzielawa; D. Legut, 2022",
+"name":  "Electrons and phonons in uranium hydrides - effects of polar bonding",
+"tags": ["hydrogen", "uranium", "electronic properties", "VASP", "ab initio", "magnetic properties", "Heisenberg model", "Exchange interaction"]
+},
+{
+"slug": "",
+"url":  "https://doi.org/10.1016/j.cpc.2021.108197",
+"image": "maelas.png",
+"date":  "P.Nieves, S.Arapan, S.H.Zhang, A.P.Kądzielawa, R.F.Zhang, D.Legut, 2022",
+"name":  "MAELAS 2.0: A new version of a computer program for the calculation of magneto-elastic properties",
+"tags": ["python", "VASP", "ab initio", "magnetostriction", "elastic properties", "magnetic properties"]
+},
+{
+"slug": "",
+"url":  "https://doi.org/10.1103/physrevb.104.125104",
+"image": "prb2021.png",
+"date":  "R. Kurleto, M. Fidrysiak, L. Nicolaï, J. Minár, M. Rosmus, Ł. Walczak, A. Tejeda, J. E. Rault, F. Bertran, A. P. Kądzielawa, D. Legut, D. Gnida, D. Kaczorowski, K. Kissner, F. Reinert, J. Spałek, and P. Starowicz, 2021",
+"name":  "Photoemission signature of momentum-dependent hybridization in CeCoIn5",
+"tags": ["heavy fermion", "Fermi surface", "ARPES", "ab initio", "f-electrons", "tight binding", "hybridization", "DFT"]
+},
+{
+"slug": "",
 "url":  "https://doi.org/10.1016/j.matlet.2021.130728",
 "image": "matlet.jpg",
-"date":  "J. Veverka, F. Lukáč, A. P. Kądzielawa, M. Koller, Z. Chlup, H. Hadraba, M. Karlík, D. Legut, J. Vontorová, T. Chráska, M. Vilémováa",
+"date":  "J. Veverka, F. Lukáč, A. P. Kądzielawa, M. Koller, Z. Chlup, H. Hadraba, M. Karlík, D. Legut, J. Vontorová, T. Chráska, M. Vilémová, 2021",
 "name":  "Ultrafine-grained W-Cr composite prepared by controlled W-Cr solid solution decomposition",
 "tags": ["tungsten-chromium alloys", "solid solution", "decomposition", "ultra-fine grains", "mechanical properties", "elastic properties", "density functional theory", "ab initio", "VASP"]
 },
@@ -11,7 +35,7 @@
 "slug": "",
 "url":  "https://doi.org/10.1016/j.corsci.2021.109716",
 "image": "corsci.png",
-"date":  "D. Legut, A.P. Kądzielawa, P. Pánek, K. Marková, P. Váňová, K. Konečná, Š. Langová",
+"date":  "D. Legut, A.P. Kądzielawa, P. Pánek, K. Marková, P. Váňová, K. Konečná, Š. Langová, 2021",
 "name":  "Inhibition of steel corrosion with imidazolium-based compounds – Experimental and theoretical study",
 "tags": ["Imidazolium-based compounds", "corrosion inhibition", "polarization curve", "electrochemical impedance spectroscopy", "steel", "density functional theory", "Electronic structure", "ab initio", "VASP"]
 },
