@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 <div id="home">
   <h1>Teaching</h1>
   <hr />
