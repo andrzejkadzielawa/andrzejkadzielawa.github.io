@@ -1,5 +1,45 @@
 [
 	{
+		"slug":  "krakow2024",
+		"name":  "Anharmonicity, electron-lattice coupling, and superconductivity in hydrogen-rich systems",
+		"image": "krakow2024.png",
+		"url":   "/static/projects/krakow2024.pdf",
+		"date":  "XXI National Conference on Superconductivity, Sep 2024",
+		"tags": ["Superconductivity", "Conventional superconductivity", "Phonons", "Anharmonicity", "Sparse matrices", "Exact diagonalization", "Lanczos method", "Correlated bands", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Metallization", "HPC", "ab initio", "Quantum Mechanics", "Variational wave function", "Electronic structure", "Extreme pressure"]
+	},
+        {
+		"slug":  "lausanne2022",
+		"name":  "Materials for application in Fusion Reactors: Determining the elastic properties of single grains in the ultrafine-grained W-Cr composite",
+		"image": "lausanne2022.png",
+		"url":   "/static/projects/lausanne2022.pdf",
+		"date":  "Psi-k conference, EPFL, Lausanne, Aug 2022",
+		"tags": ["refractory metals","tungsten-chromium alloys","miscibility gap","ab initio","special quasirandom structures"]
+	},
+	{
+		"slug":  "praha2020",
+		"name":  "Metallicity and superconductivity of the hydrogen-rich compounds",
+		"image": "praha2020.png",
+		"url":   "/static/projects/praha2020.pdf",
+		"date":  "Charles University, Prague, Feb 2020",
+		"tags": ["Superconductivity", "Conventional superconductivity", "Phonons", "Anharmonicity", "Sparse matrices", "Exact diagonalization", "Lanczos method", "Correlated bands", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Metallization", "HPC", "ab initio", "Quantum Mechanics", "Variational wave function", "Electronic structure", "Extreme pressure"]
+	},
+	{
+		"slug":  "krakow2021",
+		"name":  "Modeling of alloys: Determining the elastic properties of single grains in the ultrafine-grained W-Cr composite",
+		"image": "krakow2021.png",
+		"url":   "/static/projects/krakow2021.pdf",
+		"date":  "Seminarium L-10, Politechnika Krakowska, Nov 2021",
+		"tags": ["refractory metals","tungsten-chromium alloys","miscibility gap","ab initio","special quasirandom structures"]
+	},
+	{
+		"slug": "ostrava2020",
+		"name": "4rd Users' Conference of IT4Innovations",
+		"image": "ostrava2020.png",
+		"url": "/static/projects/ostrava2020.pdf",
+		"date":  "poster, Nov 2020",
+		"tags": ["imidazol", "corrosion", "quantum chemistry", "charge transfer"]
+	},
+	{
 		"slug":  "apkadzielawaKrakow2019",
 		"name":  "Electron-lattice coupling and superconductivity in hydrogen-rich systems",
 		"image": "apkadzielawaKrakow2019.png",
@@ -7,7 +47,15 @@
 		"date":  "5th Workshop on ab-initio Phonon Calculations, Dec 2019",
 		"tags": ["Superconductivity", "Conventional superconductivity", "Phonons", "Anharmonicity", "Sparse matrices", "Exact diagonalization", "Lanczos method", "Correlated bands", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Metallization", "HPC", "ab initio", "Quantum Mechanics", "Variational wave function", "Electronic structure", "Extreme pressure"]
 	},
-    {
+	{
+		"slug": "krakow2019",
+		"name": "Quantum Chemistry meets Solid State: HOMO-LUMO gap in proximity of metal surface",
+		"image": "krakow2019.png",
+		"url": "/static/projects/krakow2019.pdf",
+		"date":  "Institute of Physics, Jagiellonian University, Dec 2019",
+		"tags": ["imidazol", "corrosion", "quantum chemistry", "charge transfer"]
+	},
+        {
 		"slug": "ostrava2019",
 		"name": "3rd Users' Conference of IT4Innovations",
 		"image": "ostrava2019.png",
