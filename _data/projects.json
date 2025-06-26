@@ -16,20 +16,20 @@
 		"tags": ["refractory metals","tungsten-chromium alloys","miscibility gap","ab initio","special quasirandom structures"]
 	},
 	{
-		"slug":  "praha2020",
-		"name":  "Metallicity and superconductivity of the hydrogen-rich compounds",
-		"image": "praha2020.png",
-		"url":   "/static/projects/praha2020.pdf",
-		"date":  "Charles University, Prague, Feb 2020",
-		"tags": ["Superconductivity", "Conventional superconductivity", "Phonons", "Anharmonicity", "Sparse matrices", "Exact diagonalization", "Lanczos method", "Correlated bands", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Metallization", "HPC", "ab initio", "Quantum Mechanics", "Variational wave function", "Electronic structure", "Extreme pressure"]
-	},
-	{
 		"slug":  "krakow2021",
 		"name":  "Modeling of alloys: Determining the elastic properties of single grains in the ultrafine-grained W-Cr composite",
 		"image": "krakow2021.png",
 		"url":   "/static/projects/krakow2021.pdf",
 		"date":  "Seminarium L-10, Politechnika Krakowska, Nov 2021",
 		"tags": ["refractory metals","tungsten-chromium alloys","miscibility gap","ab initio","special quasirandom structures"]
+	},
+	{
+		"slug":  "praha2020",
+		"name":  "Metallicity and superconductivity of the hydrogen-rich compounds",
+		"image": "praha2020.png",
+		"url":   "/static/projects/praha2020.pdf",
+		"date":  "Charles University, Prague, Feb 2020",
+		"tags": ["Superconductivity", "Conventional superconductivity", "Phonons", "Anharmonicity", "Sparse matrices", "Exact diagonalization", "Lanczos method", "Correlated bands", "Extended Hubbard model", "Exchange interaction", "Frustration", "Hydrogen", "Solid Hydrogen", "Multi-level parallelism", "Metallization", "HPC", "ab initio", "Quantum Mechanics", "Variational wave function", "Electronic structure", "Extreme pressure"]
 	},
 	{
 		"slug": "ostrava2020",
