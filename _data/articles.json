@@ -3,7 +3,7 @@
 "slug": "",
 "url":  "https://doi.org/10.1016/j.jnucmat.2022.153817",
 "image": "UH.jpg",
-"date":  "L. Kývala; L. Havela; A.P. Kadzielawa; D. Legut, 2022",
+"date":  "L. Kývala; L. Havela; A.P. Kądzielawa; D. Legut, 2022",
 "name":  "Electrons and phonons in uranium hydrides - effects of polar bonding",
 "tags": ["hydrogen", "uranium", "electronic properties", "VASP", "ab initio", "magnetic properties", "Heisenberg model", "Exchange interaction"]
 },
@@ -76,7 +76,7 @@
 "url":  "https://github.com/Mellechowicz/JorG",
 "image": "JorGpi.png",
 "date":  "A. P. Kądzielawa, 2020",
-"name":  "JorGpi, generic framework for DFT-to-Heisnberg-model mapping",
+"name":  "JorGpi, generic framework for DFT-to-Heisenberg-model mapping",
 "tags": ["Heisenberg model", "Exchange interaction", "python", "c++", "HPC", "Ising model", "Simulated Annealing", "Random Walk", "Hive methods", "symmetry groups", "ab initio", "Quantum Mechanics"]
 },
 {
@@ -116,7 +116,7 @@
 "url":  "http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.161101",
 "image": "prb2015.png",
 "date":  "Phys. Rev. B 92, 161101(R) (2015) ",
-"name":  "<i>A. P. Kądzielawa, A. Biborski, and J. Spałek,</i> Discontinuous transition of molecular-hydrogen chain to the quasipostic state: Combined exact diagonalization and ab initio approach",
+"name":  "<i>A. P. Kądzielawa, A. Biborski, and J. Spałek,</i> Discontinuous transition of molecular-hydrogen chain to the quasiatomic state: Combined exact diagonalization and ab initio approach",
 "tags":  ["Exact diagonalization", "New methods", "Sparse matrices", "Lanczos method", "1-dimensional systems", "Insulators", "Metal-insulator transition", "Metals", "Metallization", "Extreme pressure", "ab initio", "extended Hubbard model", "Hydrogen", "Condensed Matter Physics", "Computational Physics"]
 },
 {
@@ -140,7 +140,7 @@
 "url":  "http://przyrbwn.icm.edu.pl/APP/PDF/126/a126z4ap12.pdf",
 "image": "app2014.png",
 "date":  "Acta Phys. Pol. A, 126 (2014), p. A-58",
-"name":  "<i>A. P. Kądzielawa,</i> Metallization of postic solid hydrogen within the extended Hubbard model with renormalized Wannier wave functions",
+"name":  "<i>A. P. Kądzielawa,</i> Metallization of atomic solid hydrogen within the extended Hubbard model with renormalized Wannier wave functions",
 "tags":  ["Multidimensional optimization", "Gutzwiller Ansatz", "Mean field", "Perturbations", "Zero-point motion", "Solid Hydrogen", "Hydrogen", "Condensed Matter Physics"]
 },
 {
@@ -148,7 +148,7 @@
 "url":  "https://link.springer.com/article/10.1140%2Fepjb%2Fe2013-40127-y",
 "image": "epj.png",
 "date":  "Eur. Phys. J. B 86, 252 (2013)",
-"name":  "<i>A. P. Kądzielawa, J. Spałek, J. Kurzyk, and W. Wójcik,</i> Extended Hubbard model with renormalized Wannier wave functions in the correlated state III: Statistically consistent Gutzwiller approximation and the metallization of postic solid hydrogen",
+"name":  "<i>A. P. Kądzielawa, J. Spałek, J. Kurzyk, and W. Wójcik,</i> Extended Hubbard model with renormalized Wannier wave functions in the correlated state III: Statistically consistent Gutzwiller approximation and the metallization of atomic solid hydrogen",
 "tags":  ["Multidimensional optimization", "Gutzwiller Ansatz", "Mean field", "Extreme pressure", "Metallization", "Solid Hydrogen", "Hydrogen", "Condensed Matter Physics"]
 }
 

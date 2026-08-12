@@ -33,7 +33,7 @@
 	},
 	{
 		"slug": "ostrava2020",
-		"name": "4rd Users' Conference of IT4Innovations",
+		"name": "4th Users' Conference of IT4Innovations",
 		"image": "ostrava2020.png",
 		"url": "/static/projects/ostrava2020.pdf",
 		"date":  "poster, Nov 2020",
@@ -132,7 +132,7 @@
 		"name":  "Metalizacja molekularnego wodoru w dwóch wymiarach",
 		"image": "apkadzielawaKrakow2017.png",
 		"url":   "/static/projects/apkadzielawaKrakow2017.pdf",
-		"date":  "semminar, Jan 2017",
+		"date":  "seminar, Jan 2017",
 		"tags": ["Sparse matrices", "Exact diagonalization", "Lanczos method", "Extended Hubbard model", "Hydrogen", "Multi-level parallelism", "Metal-Insulation transition", "Metallization", "HPC", "ab initio", "Quantum Mechanics", "in Polish"]
 	},
 	{
@@ -196,7 +196,7 @@
 		"name":  "Przejście molekularny → atomowy wodór: optymalizacja bazy jednocząstkowej w metodzie EDABI",
 		"image": "apkadzielawaKatowice2015.png",
 		"url":   "/static/projects/apkadzielawaKatowice2015.pdf",
-		"date":  "semminar, Jun 2015",
+		"date":  "seminar, Jun 2015",
 		"tags": ["Sparse matrices", "Exact diagonalization", "Lanczos method", "1-dimensional systems", "Extended Hubbard model", "Hydrogen", "Multi-level parallelism", "New methods", "Metallization", "HPC", "ab initio", "Quantum chemistry", "Quantum Mechanics", "in Polish"]
 	},
 	{
@@ -220,7 +220,7 @@
 		"name":  "Metallization of atomic solid hydrogen within the extended Hubbard model with renormalized Wannier wave functions",
 		"image": "apkadzielawaJuelich2014.png",
 		"url":   "/static/projects/apkadzielawaJuelich2014.pdf",
-		"date":  "working semminar, Mar 2014",
+		"date":  "working seminar, Mar 2014",
 		"tags": ["Hydrogen", "New methods", "Electronic correlations", "Zero-point motion", "Quantum chemistry", "Quantum Mechanics"]
 	},
 	{
@@ -252,7 +252,7 @@
 		"name":  "Ab initio methods in Mott transition - application to metallization of atomic hydrogen",
 		"image": "apkadzielawaKrakow2013.png",
 		"url":   "/static/projects/apkadzielawaKrakow2013.pdf",
-		"date":  "semminar, Jun 2013",
+		"date":  "seminar, Jun 2013",
 		"tags": ["Hydrogen", "Metallization", "Electronic correlations", "Mean field", "Quantum Mechanics"]
 	},
 	{

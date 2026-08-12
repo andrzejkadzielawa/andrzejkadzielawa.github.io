@@ -13,7 +13,7 @@ tagarray: []
 collections:
   articles:
     output: true
-    permalink: /acticles/:path/
+    permalink: /articles/:path/
   project:
     output: true
     permalink: /project/:path/
