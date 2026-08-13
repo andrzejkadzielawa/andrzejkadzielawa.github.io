@@ -1,6 +1,46 @@
 [
 {
 "slug": "",
+"url":  "https://doi.org/10.5506/APhysPolB.57.5-A15",
+"image": "appb2026.png",
+"date":  "A. P. Kądzielawa, 2026",
+"name":  "On Generating Special Quasirandom Structures: Optimization for the DFT Computational Efficiency",
+"tags": ["special quasirandom structures", "evolutionary algorithm", "tungsten-chromium alloys", "phonons", "DFT", "ab initio", "VASP"]
+},
+{
+"slug": "",
+"url":  "https://doi.org/10.1016/j.ijrmhm.2023.106272",
+"image": "ijrmhm2023.jpg",
+"date":  "A. P. Kądzielawa, D. Legut, 2023",
+"name":  "On the miscibility gap in tungsten-based alloys",
+"tags": ["tungsten-chromium alloys", "miscibility gap", "refractory metals", "special quasirandom structures", "thermodynamics", "density functional theory", "ab initio", "VASP"]
+},
+{
+"slug": "",
+"url":  "https://doi.org/10.48550/arXiv.2308.03948",
+"image": "apatite2023.png",
+"date":  "M. Fidrysiak, A. P. Kądzielawa, J. Spałek, arXiv preprint, 2023",
+"name":  "High Temperature Superconductivity with Strong Correlations and Disorder: Possible Relevance to Cu-doped Apatite",
+"tags": ["Superconductivity", "High-Tc Superconductivity", "strong correlations", "disorder", "t-J-U model", "Cu-doped apatite", "variational approximation"]
+},
+{
+"slug": "",
+"url":  "https://doi.org/10.1016/j.commatsci.2023.112158",
+"image": "commatsci2023.jpg",
+"date":  "P. Nieves, S. Arapan, S.H. Zhang, A.P. Kądzielawa, R.F. Zhang, D. Legut, 2023",
+"name":  "Automated calculations of exchange magnetostriction",
+"tags": ["python", "VASP", "ab initio", "magnetostriction", "Exchange interaction", "elastic properties", "magnetic properties"]
+},
+{
+"slug": "",
+"url":  "https://doi.org/10.1016/j.jnucmat.2023.154288",
+"image": "jnucmat2023.jpg",
+"date":  "J. Veverka, M. Vilémová, F. Lukáč, A. P. Kądzielawa, D. Legut, J. Vontorová, J. Kozlík, T. Chráska, 2023",
+"name":  "Decreasing the W-Cr solid solution decomposition rate: Theory, modelling and experimental verification",
+"tags": ["tungsten-chromium alloys", "solid solution", "decomposition", "fusion applications", "density functional theory", "ab initio", "VASP"]
+},
+{
+"slug": "",
 "url":  "https://doi.org/10.1016/j.jnucmat.2022.153817",
 "image": "UH.jpg",
 "date":  "L. Kývala; L. Havela; A.P. Kądzielawa; D. Legut, 2022",
@@ -49,7 +89,7 @@
 },
 {
 "slug": "",
-"url":  "",
+"url":  "https://doi.org/10.3390/s20226436",
 "image": "maelasviewer.png",
 "date":  "P.Nieves, S.Arapan, A.P.Kądzielawa, D.Legut, 2020",
 "name":  "MAELASviewer: An Online Tool to Visualize Magnetostriction",
