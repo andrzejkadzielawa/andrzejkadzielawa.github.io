@@ -145,7 +145,7 @@
 },
 {
 "slug": "",
-"url":  "http://www.nature.com/articles/srep29887",
+"url":  "https://www.nature.com/articles/srep29887",
 "image": "srep2016.jpg",
 "date":  "Scientific Reports 6, 29887 (2016)",
 "name":  "<i>A. Biborski, A. P. Kądzielawa, A. Gorczyca-Goraj, E. Zipper, M. M. Maśka, and J. Spałek,</i> Dot-ring nanostructure: Rigorous analysis of many-electron effects",
@@ -153,7 +153,7 @@
 },
 {
 "slug": "",
-"url":  "http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.161101",
+"url":  "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.161101",
 "image": "prb2015.png",
 "date":  "Phys. Rev. B 92, 161101(R) (2015) ",
 "name":  "<i>A. P. Kądzielawa, A. Biborski, and J. Spałek,</i> Discontinuous transition of molecular-hydrogen chain to the quasiatomic state: Combined exact diagonalization and ab initio approach",
@@ -161,7 +161,7 @@
 },
 {
 "slug": "",
-"url":  "http://www.sciencedirect.com/science/article/pii/S0010465515002854",
+"url":  "https://www.sciencedirect.com/science/article/pii/S0010465515002854",
 "image": "cpc2015.jpg",
 "date":  "Comput. Phys. Commun. 197, 7 (2015)",
 "name":  "<i>A. Biborski, A. P. Kądzielawa, and J. Spałek,</i> Combined shared and distributed memory ab-initio computations of molecular-hydrogen systems in the correlated state: process pool solution and two-level parallelism",
@@ -169,7 +169,7 @@
 },
 {
 "slug": "",
-"url":  "http://stacks.iop.org/1367-2630/16/i=12/a=123022",
+"url":  "https://doi.org/10.1088/1367-2630/16/12/123022",
 "image": "njp.png",
 "date":  "New J. Phys.16 123022 (2014)",
 "name":  "<i>A. P. Kądzielawa, A. Bielas, M. Acquarone, A. Biborski, M. M. Maśka, and J. Spałek,</i> $H_2$ and $(H_2)_2$ molecules with an ab initio optimization of wave functions in correlated state: electron–proton couplings and intermolecular microscopic parameters",
@@ -177,7 +177,7 @@
 },
 {
 "slug": "",
-"url":  "http://przyrbwn.icm.edu.pl/APP/PDF/126/a126z4ap12.pdf",
+"url":  "https://doi.org/10.12693/APhysPolA.126.A-58",
 "image": "app2014.png",
 "date":  "Acta Phys. Pol. A, 126 (2014), p. A-58",
 "name":  "<i>A. P. Kądzielawa,</i> Metallization of atomic solid hydrogen within the extended Hubbard model with renormalized Wannier wave functions",
