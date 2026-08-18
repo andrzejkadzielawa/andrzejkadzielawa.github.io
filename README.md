@@ -70,3 +70,5 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 ### Contributing
 
 Feel free to [open a bug](https://github.com/agusmakmun/agusmakmun.github.io/issues) or [contribute to code](https://github.com/agusmakmun/agusmakmun.github.io/pulls)!
+
+Claude code (Fable 5) was used for updating this repository.
