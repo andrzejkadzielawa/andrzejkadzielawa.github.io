@@ -9,6 +9,14 @@
 },
 {
 "slug": "",
+"url":  "https://github.com/Mellechowicz/SQuatS",
+"image": "appb2026.png",
+"date":  "A. P. Kądzielawa, 2026",
+"name":  "SQuatS, Symmetric QUasirandom ATomic Structures generator",
+"tags": ["special quasirandom structures", "evolutionary algorithm", "symmetry groups", "c++", "HPC", "DFT", "ab initio", "VASP"]
+},
+{
+"slug": "",
 "url":  "https://doi.org/10.1016/j.ijrmhm.2023.106272",
 "image": "ijrmhm2023.jpg",
 "date":  "A. P. Kądzielawa, D. Legut, 2023",
