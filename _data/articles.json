@@ -1,9 +1,57 @@
 [
 {
 "slug": "",
+"url":  "https://doi.org/10.5506/APhysPolB.57.5-A15",
+"image": "appb2026.png",
+"date":  "A. P. Kądzielawa, 2026",
+"name":  "On Generating Special Quasirandom Structures: Optimization for the DFT Computational Efficiency",
+"tags": ["special quasirandom structures", "evolutionary algorithm", "tungsten-chromium alloys", "phonons", "DFT", "ab initio", "VASP"]
+},
+{
+"slug": "",
+"url":  "https://github.com/Mellechowicz/SQuatS",
+"image": "appb2026.png",
+"date":  "A. P. Kądzielawa, 2026",
+"name":  "SQuatS, Symmetric QUasirandom ATomic Structures generator",
+"tags": ["special quasirandom structures", "evolutionary algorithm", "symmetry groups", "c++", "HPC", "DFT", "ab initio", "VASP"]
+},
+{
+"slug": "",
+"url":  "https://doi.org/10.1016/j.ijrmhm.2023.106272",
+"image": "ijrmhm2023.jpg",
+"date":  "A. P. Kądzielawa, D. Legut, 2023",
+"name":  "On the miscibility gap in tungsten-based alloys",
+"tags": ["tungsten-chromium alloys", "miscibility gap", "refractory metals", "special quasirandom structures", "thermodynamics", "density functional theory", "ab initio", "VASP"]
+},
+{
+"slug": "",
+"url":  "https://doi.org/10.48550/arXiv.2308.03948",
+"image": "apatite2023.png",
+"date":  "M. Fidrysiak, A. P. Kądzielawa, J. Spałek, arXiv preprint, 2023",
+"name":  "High Temperature Superconductivity with Strong Correlations and Disorder: Possible Relevance to Cu-doped Apatite",
+"tags": ["Superconductivity", "High-Tc Superconductivity", "strong correlations", "disorder", "t-J-U model", "Cu-doped apatite", "variational approximation"]
+},
+{
+"slug": "",
+"url":  "https://doi.org/10.1016/j.commatsci.2023.112158",
+"image": "commatsci2023.jpg",
+"date":  "P. Nieves, S. Arapan, S.H. Zhang, A.P. Kądzielawa, R.F. Zhang, D. Legut, 2023",
+"name":  "Automated calculations of exchange magnetostriction",
+"tags": ["python", "VASP", "ab initio", "magnetostriction", "Exchange interaction", "elastic properties", "magnetic properties"]
+},
+{
+"slug": "",
+"url":  "https://doi.org/10.1016/j.jnucmat.2023.154288",
+"image": "jnucmat2023.jpg",
+"date":  "J. Veverka, M. Vilémová, F. Lukáč, A. P. Kądzielawa, D. Legut, J. Vontorová, J. Kozlík, T. Chráska, 2023",
+"name":  "Decreasing the W-Cr solid solution decomposition rate: Theory, modelling and experimental verification",
+"tags": ["tungsten-chromium alloys", "solid solution", "decomposition", "fusion applications", "density functional theory", "ab initio", "VASP"]
+},
+{
+"slug": "",
 "url":  "https://doi.org/10.1016/j.jnucmat.2022.153817",
 "image": "UH.jpg",
-"date":  "L. Kývala; L. Havela; A.P. Kadzielawa; D. Legut, 2022",
+"date":  "L. Kývala; L. Havela; A.P. Kądzielawa; D. Legut, 2022",
 "name":  "Electrons and phonons in uranium hydrides - effects of polar bonding",
 "tags": ["hydrogen", "uranium", "electronic properties", "VASP", "ab initio", "magnetic properties", "Heisenberg model", "Exchange interaction"]
 },
@@ -49,7 +97,7 @@
 },
 {
 "slug": "",
-"url":  "",
+"url":  "https://doi.org/10.3390/s20226436",
 "image": "maelasviewer.png",
 "date":  "P.Nieves, S.Arapan, A.P.Kądzielawa, D.Legut, 2020",
 "name":  "MAELASviewer: An Online Tool to Visualize Magnetostriction",
@@ -76,7 +124,7 @@
 "url":  "https://github.com/Mellechowicz/JorG",
 "image": "JorGpi.png",
 "date":  "A. P. Kądzielawa, 2020",
-"name":  "JorGpi, generic framework for DFT-to-Heisnberg-model mapping",
+"name":  "JorGpi, generic framework for DFT-to-Heisenberg-model mapping",
 "tags": ["Heisenberg model", "Exchange interaction", "python", "c++", "HPC", "Ising model", "Simulated Annealing", "Random Walk", "Hive methods", "symmetry groups", "ab initio", "Quantum Mechanics"]
 },
 {
@@ -105,7 +153,7 @@
 },
 {
 "slug": "",
-"url":  "http://www.nature.com/articles/srep29887",
+"url":  "https://www.nature.com/articles/srep29887",
 "image": "srep2016.jpg",
 "date":  "Scientific Reports 6, 29887 (2016)",
 "name":  "<i>A. Biborski, A. P. Kądzielawa, A. Gorczyca-Goraj, E. Zipper, M. M. Maśka, and J. Spałek,</i> Dot-ring nanostructure: Rigorous analysis of many-electron effects",
@@ -113,15 +161,15 @@
 },
 {
 "slug": "",
-"url":  "http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.161101",
+"url":  "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.161101",
 "image": "prb2015.png",
 "date":  "Phys. Rev. B 92, 161101(R) (2015) ",
-"name":  "<i>A. P. Kądzielawa, A. Biborski, and J. Spałek,</i> Discontinuous transition of molecular-hydrogen chain to the quasipostic state: Combined exact diagonalization and ab initio approach",
+"name":  "<i>A. P. Kądzielawa, A. Biborski, and J. Spałek,</i> Discontinuous transition of molecular-hydrogen chain to the quasiatomic state: Combined exact diagonalization and ab initio approach",
 "tags":  ["Exact diagonalization", "New methods", "Sparse matrices", "Lanczos method", "1-dimensional systems", "Insulators", "Metal-insulator transition", "Metals", "Metallization", "Extreme pressure", "ab initio", "extended Hubbard model", "Hydrogen", "Condensed Matter Physics", "Computational Physics"]
 },
 {
 "slug": "",
-"url":  "http://www.sciencedirect.com/science/article/pii/S0010465515002854",
+"url":  "https://www.sciencedirect.com/science/article/pii/S0010465515002854",
 "image": "cpc2015.jpg",
 "date":  "Comput. Phys. Commun. 197, 7 (2015)",
 "name":  "<i>A. Biborski, A. P. Kądzielawa, and J. Spałek,</i> Combined shared and distributed memory ab-initio computations of molecular-hydrogen systems in the correlated state: process pool solution and two-level parallelism",
@@ -129,7 +177,7 @@
 },
 {
 "slug": "",
-"url":  "http://stacks.iop.org/1367-2630/16/i=12/a=123022",
+"url":  "https://doi.org/10.1088/1367-2630/16/12/123022",
 "image": "njp.png",
 "date":  "New J. Phys.16 123022 (2014)",
 "name":  "<i>A. P. Kądzielawa, A. Bielas, M. Acquarone, A. Biborski, M. M. Maśka, and J. Spałek,</i> $H_2$ and $(H_2)_2$ molecules with an ab initio optimization of wave functions in correlated state: electron–proton couplings and intermolecular microscopic parameters",
@@ -137,10 +185,10 @@
 },
 {
 "slug": "",
-"url":  "http://przyrbwn.icm.edu.pl/APP/PDF/126/a126z4ap12.pdf",
+"url":  "https://doi.org/10.12693/APhysPolA.126.A-58",
 "image": "app2014.png",
 "date":  "Acta Phys. Pol. A, 126 (2014), p. A-58",
-"name":  "<i>A. P. Kądzielawa,</i> Metallization of postic solid hydrogen within the extended Hubbard model with renormalized Wannier wave functions",
+"name":  "<i>A. P. Kądzielawa,</i> Metallization of atomic solid hydrogen within the extended Hubbard model with renormalized Wannier wave functions",
 "tags":  ["Multidimensional optimization", "Gutzwiller Ansatz", "Mean field", "Perturbations", "Zero-point motion", "Solid Hydrogen", "Hydrogen", "Condensed Matter Physics"]
 },
 {
@@ -148,7 +196,7 @@
 "url":  "https://link.springer.com/article/10.1140%2Fepjb%2Fe2013-40127-y",
 "image": "epj.png",
 "date":  "Eur. Phys. J. B 86, 252 (2013)",
-"name":  "<i>A. P. Kądzielawa, J. Spałek, J. Kurzyk, and W. Wójcik,</i> Extended Hubbard model with renormalized Wannier wave functions in the correlated state III: Statistically consistent Gutzwiller approximation and the metallization of postic solid hydrogen",
+"name":  "<i>A. P. Kądzielawa, J. Spałek, J. Kurzyk, and W. Wójcik,</i> Extended Hubbard model with renormalized Wannier wave functions in the correlated state III: Statistically consistent Gutzwiller approximation and the metallization of atomic solid hydrogen",
 "tags":  ["Multidimensional optimization", "Gutzwiller Ansatz", "Mean field", "Extreme pressure", "Metallization", "Solid Hydrogen", "Hydrogen", "Condensed Matter Physics"]
 }
 

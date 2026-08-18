@@ -1,6 +1,13 @@
 [
 {
 "slug": "",
+"url":  "https://plgrid.pl",
+"image": "w08.png",
+"date":  "PLGrid, grant no. PLG/2026/019296, 2026",
+"name":  "plgtopologyybbi2: Topologically protected Berry phases in the electronic structure of ytterbium dibismuthide: onset of massless fermions in strongly correlated f-electron superconductors"
+},
+{
+"slug": "",
 "url":  "https://www.it4i.cz/en/for-users/open-access-competition/25th-call-results",
 "image": "w00.png",
 "date":  "Barbora CPU 33 000 nodehours, Karolina CPU 24 000 nodehours, Karolina GPU 11 800 nodehours, 2022",

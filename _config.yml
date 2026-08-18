@@ -2,9 +2,8 @@ title: Dr. Andrzej P. Kądzielawa
 description: Andrzej P. Kądzielawa's homepage
 author: Dr. Andrzej P. Kądzielawa
 github: https://github.com/andrzejkadzielawa
-about: Theoretical Physicist and Professional Human
+about: Theoretical Physicist and a Person
 disqus_shortname: apkadzielawa
-google_analytics: UA-130945943-1
 avatar_url: /static/img/apk.png
 
 enableTags: true
@@ -13,7 +12,7 @@ tagarray: []
 collections:
   articles:
     output: true
-    permalink: /acticles/:path/
+    permalink: /articles/:path/
   project:
     output: true
     permalink: /project/:path/
@@ -23,7 +22,7 @@ social:
       link: "https://github.com/andrzejkadzielawa"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/andrzej-k%C4%85dzielawa"
-    - icon: fa-stack-exchange
+    - icon: fa-envelope
       link: "mailto:apkadzielawa@gmail.com"
     - icon: fa-github
       link: "https://github.com/Mellechowicz"
@@ -46,7 +45,7 @@ paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
